@@ -1,5 +1,1 @@
-#TYPE Selected.Microsoft.Graph.PowerShell.Models.MicrosoftGraphServiceHealthIssue
-"StartDateTime","Service","Id","ImpactDescription","Feature","Classification","Status"
-"09/11/2022 21:28:21","Exchange Online","EX465508"," Jordanian users? calendar invites from outside of the country may show the incorrect time.","Reports of an Incident","advisory","serviceDegradation"
-"07/12/2022 05:05:12","Microsoft 365 Defender","DZ481319","Admins are unable to see malware detections using the Microsoft 365 Defender portal.","MDO","advisory","extendedRecovery"
-"12/12/2022 05:26:18","Exchange Online","EX483390","Users may be unable to print correctly formatted calendars using Outlook on the web.","OWA - poor customer experience","advisory","serviceDegradation"
+No 365 Service Health Issues found!
